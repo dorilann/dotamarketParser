@@ -12,7 +12,7 @@ namespace rest_api
     {
         static void Main(string[] args)
         {
-            var key = "53vjd1Wcoy4K23wp13nr5QY2ai654fj";
+            var key = "";
             var data = DateTime.Now;
             var hashNames = new string[] {"Demon Eater", "Reaper's Wreath"};
             var minPrices = new int[] { 180000, 30000 };
