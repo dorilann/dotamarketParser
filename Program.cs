@@ -15,6 +15,7 @@ namespace rest_api
             var key = "";
             var data = DateTime.Now;
             var hashNames = new string[] {"Demon Eater", "Reaper's Wreath"};
+            Console.WriteLine("Hellowrld");
             var minPrices = new int[] { 180000, 30000 };
 
 
